@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author cesarvefe
+ * @author Santiago Buitrago Osorio
  */
 public class MainPizzaMaker {
 

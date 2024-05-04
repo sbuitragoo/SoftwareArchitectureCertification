@@ -2,10 +2,8 @@ edu/unisabana/pizzafactory/model/pizzamaker/ThinPizzaMaker.class
 edu/unisabana/pizzafactory/exception/InvalidDoughException.class
 edu/unisabana/pizzafactory/model/molder/ThinPizzaDoughMolder.class
 edu/unisabana/pizzafactory/model/kneader/ThinPizzaDoughKneader.class
-edu/unisabana/pizzafactory/model/ExcepcionParametrosInvalidos.class
 edu/unisabana/pizzafactory/model/molder/WholemealPizzaDoughMolder.class
 edu/unisabana/pizzafactory/model/Ingredient.class
-edu/unisabana/pizzafactory/model/HorneadorPizzaDelgada.class
 edu/unisabana/pizzafactory/consoleview/MainPizzaMaker.class
 edu/unisabana/pizzafactory/model/molder/Molder.class
 edu/unisabana/pizzafactory/exception/InvalidSizeException.class
@@ -18,12 +16,9 @@ edu/unisabana/pizzafactory/model/kneader/WholemealPizzaDoughKneader.class
 edu/unisabana/pizzafactory/model/pizzamaker/PizzaMakerFactory.class
 edu/unisabana/pizzafactory/model/kneader/Kneader.class
 edu/unisabana/pizzafactory/model/molder/ThickPizzaDoughMolder.class
-edu/unisabana/pizzafactory/model/MoldeadorPizzaDelgada.class
 edu/unisabana/pizzafactory/model/pizzamaker/ThickPizzaMaker.class
 edu/unisabana/pizzafactory/model/pizzamaker/PizzaMaker.class
-edu/unisabana/pizzafactory/model/AmasadorPizzaDelgada.class
 edu/unisabana/pizzafactory/model/pizzamaker/PizzaMakerFactory$1.class
 edu/unisabana/pizzafactory/model/baker/Baker.class
-edu/unisabana/pizzafactory/model/Tamano.class
 edu/unisabana/pizzafactory/model/DoughType.class
 edu/unisabana/pizzafactory/model/baker/ThinPizzaDoughBaker.class
