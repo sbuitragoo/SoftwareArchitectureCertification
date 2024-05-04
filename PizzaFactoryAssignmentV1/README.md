@@ -1,3 +1,3 @@
 # Pizza Factory Problem Solution 1
 
-![Alt Text](/model/Model.png)
+![UML Model](./model/Model.png)
