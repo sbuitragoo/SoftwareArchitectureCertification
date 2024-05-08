@@ -1,0 +1,4 @@
+edu/unisabana/dyas/patterns/Client.class
+edu/unisabana/dyas/patterns/utils/AudioPlayer.class
+edu/unisabana/dyas/patterns/utils/AdvancedAudioPlayerAdapter.class
+edu/unisabana/dyas/patterns/utils/AdvancedAudioPlayer.class
