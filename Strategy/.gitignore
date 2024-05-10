@@ -1,0 +1,23 @@
+# Bytecode
+build/
+bin/
+
+# IDE files
+.idea/
+.gradle/
+
+# Compiled Gradle Plugins
+buildSrc/build/
+
+# Dependency cache
+.gradle/
+build/
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Local configuration file (gradle.properties)
+gradle.properties
+
+*.ini
